@@ -30,8 +30,13 @@ Python → CSV → PostgreSQL → SQL → Power BI
 
 ## Dashboard
 
-### Key Insights
-- Revenue trends over time
-- Top customers and CLTV
-- Category-wise revenue distribution
-- Geographic performance by city
+### Key Metrics
+- Total Revenue: $10.8K
+- Avg Order Value: $540
+- Revenue per Customer: $1.35K
+
+### Insights
+- Revenue shows fluctuating trend over months
+- Electronics category contributes highest revenue (~51%)
+- Top cities drive majority of sales
+- Customer spending varies significantly (high CLTV concentration)
