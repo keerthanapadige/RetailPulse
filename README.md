@@ -27,3 +27,11 @@ Python → CSV → PostgreSQL → SQL → Power BI
 1. Run generate_data.py
 2. Run load_to_db.py
 3. Execute SQL queries in PostgreSQL
+
+## Dashboard
+
+### Key Insights
+- Revenue trends over time
+- Top customers and CLTV
+- Category-wise revenue distribution
+- Geographic performance by city
